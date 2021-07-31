@@ -23,7 +23,7 @@ Step 2. Add the dependency
 ```
 
 	dependencies {
-	        implementation 'com.github.KutuGondrong:httpclientkg:0.0.1'
+	        implementation 'com.github.KutuGondrong:httpclient-kg:0.0.1'
 	}
 
 ```
