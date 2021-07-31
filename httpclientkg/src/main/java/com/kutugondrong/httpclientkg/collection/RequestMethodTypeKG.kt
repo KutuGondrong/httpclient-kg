@@ -11,5 +11,5 @@ import com.kutugondrong.httpclientkg.SettingRequestKG
  */
 
 enum class RequestMethodTypeKG {
-    GET, POST
+    GET, POST, PUT, DELETE
 }
